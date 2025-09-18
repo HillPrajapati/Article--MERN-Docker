@@ -1,0 +1,6 @@
+body, html, #root {
+  height: 100%;
+  margin: 0;
+  font-family: Roboto, Arial, sans-serif;
+}
+main { background: #f6f7fb; min-height: calc(100vh - 64px); }
